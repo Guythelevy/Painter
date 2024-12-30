@@ -1,4 +1,4 @@
-#Painter: A Shape Drawing and Manipulation Tool
+### Painter: A Shape Drawing and Manipulation Tool
 
 Welcome to the **Painter** project! This Java application provides an intuitive interface for drawing, manipulating, and managing geometric shapes using Object-Oriented Programming (OOP) principles. The program features a graphical user interface (GUI) and supports various shape operations, including saving and loading shapes.
 
